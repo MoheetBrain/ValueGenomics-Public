@@ -1,0 +1,2 @@
+# Preserve the historical source and result bytes across checkouts.
+* -text

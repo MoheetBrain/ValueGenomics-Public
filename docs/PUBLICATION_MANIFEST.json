@@ -1,0 +1,301 @@
+{
+  "research_snapshot": "2026-10-17",
+  "public_edition": "2026-10-31",
+  "source_main": "558b1414c25f557065b308913f696d50b405514c",
+  "entries": [
+    {
+      "path": ".gitignore",
+      "original_sha256": "4a669539c8be98701a0d6e187e61ec92acd5ed88fbfe4f0debe6e1067b622f59",
+      "public_sha256": "4a669539c8be98701a0d6e187e61ec92acd5ed88fbfe4f0debe6e1067b622f59",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "README.md",
+      "original_sha256": "16bca73cc924bc37ff00a8c8f263d9579f439bd14f86a0ea6e4a8d26c094bc2f",
+      "public_sha256": "51ed60e7740dc987c4f2a079124b6825da4cb50c3a5f114a24ff763e66764ab1",
+      "status": "public edition",
+      "reason": "Complete redesign around independent Economic Genome research, nine-dimensional framework, AI-assisted discovery and a subordinate Zero-Net experiment; results unchanged"
+    },
+    {
+      "path": "data/processed/ons_iot2023_domestic_Z.csv",
+      "original_sha256": "5447f014030791dab7510bf2ddb9aa651ad554a04c09e6e00860c3184940091c",
+      "public_sha256": "5447f014030791dab7510bf2ddb9aa651ad554a04c09e6e00860c3184940091c",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "data/processed/ons_iot2023_products.csv",
+      "original_sha256": "0f2fb4a77d1d78acf2c069c9a10a002d580959a7ae3699c5363bf700e23fe432",
+      "public_sha256": "0f2fb4a77d1d78acf2c069c9a10a002d580959a7ae3699c5363bf700e23fe432",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "data/raw/ons_iot2023product.xlsx",
+      "original_sha256": "14d8f4bd2993f8f0cd5339b28056b419c0f5aee15c920ecb4903c78756e29a56",
+      "public_sha256": "14d8f4bd2993f8f0cd5339b28056b419c0f5aee15c920ecb4903c78756e29a56",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "docs/PROJECT_LEDGER.md",
+      "original_sha256": "b78f4f081eaacac2da4ca4ceb2b4d047bef0c882fc0d5dfd1f3f16b577f17a2c",
+      "public_sha256": "d81736b95b4001ad5dfaf6a167821e2d3e0e99df5a8bd241c8fc8e4b78c37280",
+      "status": "public edition",
+      "reason": "Historical ledger preserved with local-path/privacy wording removed and current positioning noted"
+    },
+    {
+      "path": "docs/PROJECT_STATUS.md",
+      "original_sha256": "afd75d9be6becc9dbca6002530cbbb129441e881c7682fc549c9eec3d286eebc",
+      "public_sha256": "8cc263b2405314aee8c1e28e6328679fec76f2dba0febc9a60cbd8754cbcad9b",
+      "status": "public edition",
+      "reason": "Historical status labelled; personal goal and finance context omitted; publication CI noted"
+    },
+    {
+      "path": "experiments/__init__.py",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "experiments/exp001_circularity/__init__.py",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "experiments/exp001_circularity/clearing.py",
+      "original_sha256": "8eb848a3e6da711d6f339d025b1ef303f1fce6acb25cb2a90c3d823182d90a25",
+      "public_sha256": "8eb848a3e6da711d6f339d025b1ef303f1fce6acb25cb2a90c3d823182d90a25",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "experiments/exp001_circularity/defaults.py",
+      "original_sha256": "b6eb65b512a243ead9a1fa9e186d0df765fedb367db546475ad06d389e2dfb46",
+      "public_sha256": "b6eb65b512a243ead9a1fa9e186d0df765fedb367db546475ad06d389e2dfb46",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "experiments/exp001_circularity/network.py",
+      "original_sha256": "a5fb718fae1c745561067264faf67a6d60b8d1e403f18b860f82d0c1d84243bd",
+      "public_sha256": "a5fb718fae1c745561067264faf67a6d60b8d1e403f18b860f82d0c1d84243bd",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "experiments/exp001_circularity/run.py",
+      "original_sha256": "640d8b2b11afe8f71c1830d9fcad44d0be54e6c2117f29abe5c0aedc32b88cb4",
+      "public_sha256": "640d8b2b11afe8f71c1830d9fcad44d0be54e6c2117f29abe5c0aedc32b88cb4",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "experiments/exp001_circularity/test_exp001.py",
+      "original_sha256": "3ea8be063adc13b0df273d1ae7001af0fdab13f0880dd5e9c617c322bb29cea6",
+      "public_sha256": "3ea8be063adc13b0df273d1ae7001af0fdab13f0880dd5e9c617c322bb29cea6",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "experiments/experiment-001-spec.md",
+      "original_sha256": "03423b93e0718a1f5a9a2cbd0b68638f7b300ac2d6ba94e05999611b9a9140bb",
+      "public_sha256": "03423b93e0718a1f5a9a2cbd0b68638f7b300ac2d6ba94e05999611b9a9140bb",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "requirements.txt",
+      "original_sha256": "f21f35a125508c61cc5f26417e2ccf43ba638581c5cd54ed13806da85ac55703",
+      "public_sha256": "f21f35a125508c61cc5f26417e2ccf43ba638581c5cd54ed13806da85ac55703",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "research/adversarial-review.md",
+      "original_sha256": "02bac4ffb8df0d84e9cf94db3a4becd4f2fccc908bad5ecf3b755665ab53c5fa",
+      "public_sha256": "ab3d619bc138b66fcbbdf8911c142235bfd3f484f8dfd717cce8c484827a75d7",
+      "status": "public edition",
+      "reason": "Unchanged historical analysis with a current research-positioning notice"
+    },
+    {
+      "path": "research/audit/archives-part1.md",
+      "original_sha256": "16068b720721679d5f80618df37c7dc41ef1c4824dddeb95353971d94d53a59e",
+      "public_sha256": "114f081c9bafeab20d757e6b97e8b59bb67339249b1e11a016faf4092b0da74f",
+      "status": "public edition",
+      "reason": "Private conversational provenance replaced with a labelled topic-level summary; original retained privately"
+    },
+    {
+      "path": "research/audit/archives-part2.md",
+      "original_sha256": "bbfe3f1df3605d9d4df480611b05d19125478a4cb4ea8f48ad9de81a8a4fd2f2",
+      "public_sha256": "415b966ba84009238c3156e1f903ad9d628fbce225f7b6d6c984356c14da4d5d",
+      "status": "public edition",
+      "reason": "Private conversational provenance replaced with a labelled topic-level summary; original retained privately"
+    },
+    {
+      "path": "research/audit/books-and-papers.md",
+      "original_sha256": "d31592868905c1e187b93c8e20795aab4b3f09f73ff072a68025d81cebffa6ee",
+      "public_sha256": "e8d7743cc6c8348aaf3fb945086af300c842f61d6d7bf444b76ea4e1f68ba5fe",
+      "status": "public edition",
+      "reason": "Private library paths and acquisition details removed; scholarly audit retained"
+    },
+    {
+      "path": "research/audit/prior-art-verification.md",
+      "original_sha256": "ea2d3873530150333c3c430980c87d72423e6ed46519c1f8929cedf52094cabf",
+      "public_sha256": "ea2d3873530150333c3c430980c87d72423e6ed46519c1f8929cedf52094cabf",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "research/candidate-comparison.md",
+      "original_sha256": "1acd80ba7ea6ed5c58274d9190ac9c1123856c9c5160118b07b862b610a452d2",
+      "public_sha256": "c94acfda32b2853d4b70d8adba8915945640da20a4e85e4cf60e49da3076fcf9",
+      "status": "public edition",
+      "reason": "Unchanged historical analysis with a current research-positioning notice"
+    },
+    {
+      "path": "research/design-space.md",
+      "original_sha256": "cd9d04fdac07d6b2029fb0d35f928018a90d4cccc4ffa2ae5e81dea48f555f9a",
+      "public_sha256": "cd9d04fdac07d6b2029fb0d35f928018a90d4cccc4ffa2ae5e81dea48f555f9a",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "research/final-decision-memo.md",
+      "original_sha256": "685c7c76b27cbb47166ac39d8052d469a1a4e2c38773ed207d790df087437db2",
+      "public_sha256": "d29a9633cd6250805d0a1c440ce7a7531f6d4db5ffdf71775d3ead4a5fa11890",
+      "status": "public edition",
+      "reason": "Personal objective omitted; historical commercial recommendation labelled as superseded"
+    },
+    {
+      "path": "research/flagship-decision.md",
+      "original_sha256": "359aa4e3bccf6a94f117b85eadc529b5ef4560eaa3da6a39251846ecfde17fdc",
+      "public_sha256": "8319601b76025e8da79ca7af48102066441c0ab5ff5d8a656c8b385415415786",
+      "status": "public edition",
+      "reason": "Personal objective omitted; historical commercial recommendation labelled as superseded"
+    },
+    {
+      "path": "research/governance-and-rights.md",
+      "original_sha256": "4ed3dfa97797185b27f99abd3bdbeea18167195d9db4ae5e6a342f1162f8c061",
+      "public_sha256": "82b4c1c37607289506d425f68313ad1fa3bdbeb84c424efc2716468fdb6e2557",
+      "status": "public edition",
+      "reason": "Unchanged historical analysis with a current research-positioning notice"
+    },
+    {
+      "path": "research/original-ideas.md",
+      "original_sha256": "8bed4d0d088a79683daa2cdfad0971d9b2ef8ab0aa5a4d2542b817c828c1a5f0",
+      "public_sha256": "8bed4d0d088a79683daa2cdfad0971d9b2ef8ab0aa5a4d2542b817c828c1a5f0",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "research/prior-art.md",
+      "original_sha256": "23979b755a3855eee207d85307be6bd19d92d3456115cacb1cb0a3df0e10e164",
+      "public_sha256": "23979b755a3855eee207d85307be6bd19d92d3456115cacb1cb0a3df0e10e164",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "research/source-manifest.md",
+      "original_sha256": "226de876b202d71a6daf3186185bd04d8f87d3ada9c7f54a1ef74c3777a0762d",
+      "public_sha256": "be02b4b819a48e679c9624831b51940782c22898db56dd867c0388da1b16cbe4",
+      "status": "public edition",
+      "reason": "Public provenance edition omits private dialogue, identifiers and paths; retains citations, corrections, data hashes and scientific boundaries"
+    },
+    {
+      "path": "results/exp001/defaults.csv",
+      "original_sha256": "0212ce9ea0e9ed225864c881f60ef2031ddccf60c49d8466c997e31a7f00bc33",
+      "public_sha256": "0212ce9ea0e9ed225864c881f60ef2031ddccf60c49d8466c997e31a7f00bc33",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "results/exp001/posthoc_beta0.json",
+      "original_sha256": "b52a036a427e83c6d18589bc18cd4a1d8658bd57a6acb72c18394851a7fadada",
+      "public_sha256": "b52a036a427e83c6d18589bc18cd4a1d8658bd57a6acb72c18394851a7fadada",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "results/exp001/runs.csv",
+      "original_sha256": "8bb724875d1b925eb3848f02215a56f39229e0a3250f95df3edb254f978e2c99",
+      "public_sha256": "8bb724875d1b925eb3848f02215a56f39229e0a3250f95df3edb254f978e2c99",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "results/exp001/summary.json",
+      "original_sha256": "eaed2adce270e6959591c16594bf0ad004d063e791499fa0e6e282c0633a900c",
+      "public_sha256": "eaed2adce270e6959591c16594bf0ad004d063e791499fa0e6e282c0633a900c",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "results/experiment-001-summary.md",
+      "original_sha256": "e5b2080a539bfa2637787e427f5ef961d67bba3b94a9a430a3ebe61a0a83edcd",
+      "public_sha256": "e5b2080a539bfa2637787e427f5ef961d67bba3b94a9a430a3ebe61a0a83edcd",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "scripts/extract_ons_iot.py",
+      "original_sha256": "a4d7caefe81f5ede03aca73e0775ec8640a8af0f4619eb76b8eca0067a18e04f",
+      "public_sha256": "a4d7caefe81f5ede03aca73e0775ec8640a8af0f4619eb76b8eca0067a18e04f",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "scripts/pareto_candidates.py",
+      "original_sha256": "e8dbdb19de266d400a632655e5981b227aa705d7b1bbd365ef00481b8c1105d4",
+      "public_sha256": "e8dbdb19de266d400a632655e5981b227aa705d7b1bbd365ef00481b8c1105d4",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "scripts/posthoc_exp001_beta0.py",
+      "original_sha256": "bdfba10f633b25ac030450381f5f7103db785d916e2652792c92140e1804d253",
+      "public_sha256": "bdfba10f633b25ac030450381f5f7103db785d916e2652792c92140e1804d253",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "scripts/summarise_exp001.py",
+      "original_sha256": "895925a5d223fb556d3d7fbc167403f955d15278fcb0a6f7f533f8161f654051",
+      "public_sha256": "895925a5d223fb556d3d7fbc167403f955d15278fcb0a6f7f533f8161f654051",
+      "status": "unchanged",
+      "reason": "Preserved byte-for-byte"
+    },
+    {
+      "path": "sources/pasted/2026-10-16_04_economic-genome-reconstruction.md",
+      "original_sha256": "24ae4f8be6b2e6d24dfb863229f9e9039ebf4d30fed2bb098187fa9861a1faba",
+      "public_sha256": "5572a7b405821a472228e6b304049e84d838865d9f39cc59291bb492f534b7a0",
+      "status": "public edition",
+      "reason": "Private conversational provenance replaced with a labelled topic-level summary; original retained privately"
+    },
+    {
+      "path": "sources/pasted/2026-10-17_01_project-discovery-mandate.md",
+      "original_sha256": "d02161542e90b1f20855f381a65e52719241d96c4680947e0d433ffc55b4ae53",
+      "public_sha256": "921de9b14eda2e1ca9ec91fe555ac168f5b4e419d3a189ef9e205f53a4fb000d",
+      "status": "public edition",
+      "reason": "Private conversational provenance replaced with a labelled topic-level summary; original retained privately"
+    },
+    {
+      "path": "sources/pasted/2026-10-17_02_frontier-research-mandate-and-programme-01.md",
+      "original_sha256": "8de7990a3f3b63093394ded11ab3549cbb0a575a5ab6a58aa315ec5d37676782",
+      "public_sha256": "95545790ddb9c334adc1c351837b346136e95f820815aa453d538fc5253dfd14",
+      "status": "public edition",
+      "reason": "Private conversational provenance replaced with a labelled topic-level summary; original retained privately"
+    },
+    {
+      "path": "sources/pasted/2026-10-17_03_zero-x-economic-genome.md",
+      "original_sha256": "e5dbca2dbb67d105ff34e15b4c7a8d34e9eeaa044c9f37e2975b513465705e40",
+      "public_sha256": "cacbae43712d8eb4448ffff377652bf32b29f33ed2a21a966788c9fabc1d7acb",
+      "status": "public edition",
+      "reason": "Private conversational provenance replaced with a labelled topic-level summary; original retained privately"
+    }
+  ]
+}

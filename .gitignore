@@ -1,0 +1,10 @@
+# Local environments and caches (never commit)
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# Raw conversation archives and copyrighted books stay outside the repo (see research/source-manifest.md)
+archives/
+books/

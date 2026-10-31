@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite ValueGenomics and retain source-level attribution when reusing this work."
+type: software
+title: "ValueGenomics: Computational Discovery of Economic Systems"
+authors:
+  - name: "MoheetBrain"
+repository-code: "https://github.com/MoheetBrain/ValueGenomics-Public"
+url: "https://github.com/MoheetBrain/ValueGenomics-Public"
+version: "2026-10-31-public-snapshot"
+date-released: "2026-10-31"
+abstract: "Independent computational research into the institutional architecture of money and exchange, including a nine-dimensional framework and an ONS-calibrated synthetic clearing experiment. Original research snapshot: 17 October 2026."
+keywords:
+  - computational economics
+  - economic institutions
+  - mechanism design
+  - network analysis
+  - simulation
+license: MIT
+# Code: MIT. Research/documentation: CC BY 4.0. ONS inputs: OGL v3.0.
+# See DATA_LICENSE.md and THIRD_PARTY_NOTICES.md for the respective scopes.

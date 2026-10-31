@@ -1,0 +1,105 @@
+code,name,total_output_basic_prices_gbp_m
+CPA_A01,"Products of agriculture, hunting and related services",38818.000
+CPA_A02,"Products of forestry, logging and related services",2157.000
+CPA_A03,Fish and other fishing products; aquaculture products; support services to fishing,2029.000
+CPA_B05,Coal and lignite,97.000
+CPA_B06 & B07,Extraction Of Crude Petroleum And Natural Gas  & Mining Of Metal Ores,37016.000
+CPA_B08,Other mining and quarrying products,5038.000
+CPA_B09,Mining support services,4486.000
+CPA_C101,Preserved meat and meat products,25760.000
+CPA_C102_3,"Processed and preserved fish, crustaceans, molluscs, fruit and vegetables",10698.000
+CPA_C104,Vegetable and animal oils and fats,2192.000
+CPA_C105,Dairy products,13464.000
+CPA_C106,"Grain mill products, starches and starch products",7033.000
+CPA_C107,Bakery and farinaceous products,14240.000
+CPA_C108,Other food products,19712.000
+CPA_C109,Prepared animal feeds,8901.000
+CPA_C11.01-6 & C12,Alcoholic beverages  & Tobacco products,16418.000
+CPA_C1107,Soft drinks,6825.000
+CPA_C13,Textiles,7347.000
+CPA_C14,Wearing apparel,3266.000
+CPA_C15,Leather and related products,823.000
+CPA_C16,"Wood and of products of wood and cork, except furniture; articles of straw and plaiting materials",10703.000
+CPA_C17,Paper and paper products,14267.000
+CPA_C18,Printing and recording services,8996.000
+CPA_C19,Coke and refined petroleum products,35147.000
+CPA_C203,"Paints, varnishes and similar coatings, printing ink and mastics",3853.000
+CPA_C204,"Soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",9675.000
+CPA_C205,Other chemical products,8145.000
+CPA_C20A,"Industrial gases, inorganics and fertilisers (all inorganic chemicals) - 20.11/13/15",4291.000
+CPA_C20B,Petrochemicals - 20.14/16/17/60,9738.000
+CPA_C20C,"Dyestuffs, agro-chemicals - 20.12/20",2572.000
+CPA_C21,Basic pharmaceutical products and pharmaceutical preparations,47706.000
+CPA_C22,Rubber and plastic products,24376.000
+CPA_C235_6,"Cement, lime, plaster and articles of concrete, cement and plaster",10121.000
+CPA_C23OTHER,"Glass, refractory, clay, other porcelain and ceramic, stone and abrasive products - 23.1-4/7-9",8496.000
+CPA_C241_3,Basic iron and steel,9704.000
+CPA_C244_5,Other basic metals and casting,6973.000
+CPA_C25,Fabricated metal products,38495.000
+CPA_C26,"Computer, electronic and optical products",27587.000
+CPA_C27,Electrical equipment,16622.000
+CPA_C28,Machinery and equipment n.e.c.,38834.000
+CPA_C29,"Motor vehicles, trailers and semi-trailers",71371.000
+CPA_C301,Ships and boats,6300.000
+CPA_C303,Air and spacecraft and related machinery,24669.000
+CPA_C30OTHER,Other transport equipment - 30.2/4/9,2764.000
+CPA_C31,Furniture,8801.000
+CPA_C32,Other manufactured goods,12331.000
+CPA_C3315,Repair and maintenance of ships and boats,1080.000
+CPA_C3316,Repair and maintenance of aircraft and spacecraft,3822.000
+CPA_C33OTHER,Rest of repair; Installation - 33.11-14/17/19/20,25918.000
+CPA_D351,"Electricity, transmission and distribution",148938.000
+CPA_D352_3,Gas; distribution of gaseous fuels through mains; steam and air conditioning supply,100093.000
+CPA_E36,Natural water; water treatment and supply services,12053.000
+CPA_E37,Sewerage services; sewage sludge,11126.000
+CPA_E38,"Waste collection, treatment and disposal services; materials recovery services",27189.000
+CPA_E39,Remediation services and other waste management services,1271.000
+"CPA_F41, F42 & F43",Construction,398793.000
+CPA_G45,Wholesale and retail trade and repair services of motor vehicles and motorcycles,69324.000
+CPA_G46,"Wholesale trade services, except of motor vehicles and motorcycles",214742.000
+CPA_G47,"Retail trade services, except of motor vehicles and motorcycles",174593.000
+CPA_H491_2,Rail transport services,15349.000
+CPA_H493_5,"Land transport services and transport services via pipelines, excluding rail transport",62675.000
+CPA_H50,Water transport services,17909.000
+CPA_H51,Air transport services,25885.000
+CPA_H52,Warehousing and support services for transportation,53621.000
+CPA_H53,Postal and courier services,30502.000
+CPA_I55,Accommodation services,36712.000
+CPA_I56,Food and beverage serving services,137030.000
+CPA_J58,Publishing services,24579.000
+CPA_J59 & J60,"Motion Picture, Video & TV Programme Production, Sound Recording & Music Publishing Activities & Programming And Broadcasting Activities",51089.000
+CPA_J61,Telecommunications services,55123.000
+CPA_J62,"Computer programming, consultancy and related services",145002.000
+CPA_J63,Information services,16522.000
+CPA_K64,"Financial services, except insurance and pension funding",179759.000
+CPA_K65.1-2 & K65.3,"Insurance, reinsurance and pension funding services, except compulsory social security",77787.000
+CPA_K66,Services auxiliary to financial services and insurance services,97401.000
+CPA_L683,Real estate services on a fee or contract basis,12611.000
+CPA_L68A,Owner-Occupiers' Housing Services,260111.000
+CPA_L68BXL683,"Real estate services, excluding on a fee or contract basis and imputed rent",161321.000
+CPA_M691,Legal services,46998.000
+CPA_M692,"Accounting, bookkeeping and auditing services; tax consulting services",33384.000
+CPA_M70,Services of head offices; management consulting services,81488.000
+CPA_M71,Architectural and engineering services; technical testing and analysis services,61045.000
+CPA_M72,Scientific research and development services,78732.000
+CPA_M73,Advertising and market research services,57624.000
+CPA_M74,"Other professional, scientific and technical services",35803.000
+CPA_M75,Veterinary services,8729.000
+CPA_N77,Rental and leasing services,55186.000
+CPA_N78,Employment services,59991.000
+CPA_N79,"Travel agency, tour operator and other reservation services and related services",28927.000
+CPA_N80,Security and investigation services,8398.000
+CPA_N81,Services to buildings and landscape,30372.000
+CPA_N82,"Office administrative, office support and other business support services",58581.000
+CPA_O84,Public administration and defence services; compulsory social security services,216131.000
+CPA_P85,Education services,177325.000
+CPA_Q86,Human health services,230774.000
+CPA_Q87 & Q88,Residential Care  & Social Work Activities,99931.000
+CPA_R90,"Creative, arts and entertainment services",18060.000
+CPA_R91,"Libraries, archives, museums and other cultural services",6117.000
+CPA_R92,Gambling and betting services,8860.000
+CPA_R93,Sports services and amusement and recreation services,24535.000
+CPA_S94,Services furnished by membership organisations,16029.000
+CPA_S95,Repair services of computers and personal and household goods,4383.000
+CPA_S96,Other personal services,30689.000
+CPA_T97,Services of households as employers of domestic personnel,2927.000

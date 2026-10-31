@@ -27,7 +27,7 @@ never present an unrun experiment as done.
   written and preregistered before any data arrives.
 
 ## Current Branch
-`main` (founder's choice). Remote `https://github.com/MoheetBrain/ValueGenomics`. Commits so far:
+Historical source branch: `main`. Public code and research: [ValueGenomics-Public](https://github.com/MoheetBrain/ValueGenomics-Public). Original development history is preserved privately; the historical commit references below identify that source sequence:
 `238d82b` (initial README), `fc2561e` (Stages A–C plus preregistration). This snapshot is
 part of the Stage D/E results commit.
 

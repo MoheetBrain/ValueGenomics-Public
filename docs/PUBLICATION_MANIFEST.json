@@ -48,9 +48,9 @@
     {
       "path": "docs/PROJECT_STATUS.md",
       "original_sha256": "afd75d9be6becc9dbca6002530cbbb129441e881c7682fc549c9eec3d286eebc",
-      "public_sha256": "8cc263b2405314aee8c1e28e6328679fec76f2dba0febc9a60cbd8754cbcad9b",
+      "public_sha256": "bc1094bb5c8f3e62c2372be907ad4e78fbed3fa421c406ce80768983c7c98f76",
       "status": "public edition",
-      "reason": "Historical status labelled; personal goal and finance context omitted; publication CI noted"
+      "reason": "Historical status labelled; personal goal and finance context omitted; publication CI noted; close-out corrects the visitor-facing public repository link."
     },
     {
       "path": "experiments/__init__.py",
